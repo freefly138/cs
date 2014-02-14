@@ -1,3 +1,7 @@
 b1
+<<<<<<< HEAD
 
 local modify
+=======
+cccccccccccccccccccccc
+>>>>>>> origin/master
