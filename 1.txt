@@ -1,6 +1,14 @@
+@@@@1
 b1
 cccccccccccccccccccccc
+<<<<<<< HEAD
 
 cs2---b1--modi1
 
 cs2-b1-2
+=======
+@@@2
+my devlop  @@@3
+
+add fly
+>>>>>>> tmp
